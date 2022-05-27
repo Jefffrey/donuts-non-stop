@@ -1,2 +1,3 @@
 # donuts-non-stop
-DNS Resolver Client
+
+DNS Resolver Client experiment
